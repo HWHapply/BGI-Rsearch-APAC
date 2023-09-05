@@ -7,4 +7,5 @@ Developed novel machine learning pipeline to identify the Epstein-Barr Virus inf
 · Feature selection, extraction and data augmentation.\
 · Model construction, optimiation and Evaluation.
 
-![Uploading image.png…]()
+<img width="702" alt="image" src="https://github.com/HWHapply/BGI-Rsearch-APAC/assets/95114275/3210e242-ecfb-44d1-9931-48a7d8d650a2">
+
